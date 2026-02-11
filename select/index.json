@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Rapport",
+  "base_artist": "キタニタツヤ",
+  "createdAt": "2026-02-11T20:18:59.982162Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Rapport",
+      "artist": "キタニタツヤ",
+      "has_synced": true,
+      "path": "select/01_Rapport_キタニタツヤ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Rapport",
+      "artist": "Tatsuya Kitani",
+      "has_synced": true,
+      "path": "select/02_Rapport_Tatsuya_Kitani.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Rapport",
+      "artist": "Tatsuya Kitani",
+      "has_synced": true,
+      "path": "select/03_Rapport_Tatsuya_Kitani.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Le Rapport du matin",
+      "artist": "Elton John",
+      "has_synced": false,
+      "path": "select/04_Le_Rapport_du_matin_Elton_John.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "4ème rapport",
+      "artist": "Timal",
+      "has_synced": true,
+      "path": "select/05_4ème_rapport_Timal.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "4ème rapport",
+      "artist": "Timal",
+      "has_synced": true,
+      "path": "select/06_4ème_rapport_Timal.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "3ème rapport (Ils finiront dans les ravins)",
+      "artist": "Timal",
+      "has_synced": true,
+      "path": "select/07_3ème_rapport_(Ils_finiront_dans_les_ravins)_Timal.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Rapport de force",
+      "artist": "Ladea",
+      "has_synced": false,
+      "path": "select/08_Rapport_de_force_Ladea.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Freestyle 2ème rapport",
+      "artist": "Timal",
+      "has_synced": true,
+      "path": "select/09_Freestyle_2ème_rapport_Timal.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "5ème rapport",
+      "artist": "Timal",
+      "has_synced": true,
+      "path": "select/10_5ème_rapport_Timal.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Rapport",
+      "artist": "キタニタツヤ",
+      "has_synced": true,
+      "path": "select/11_Rapport_キタニタツヤ.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "6ème rapport",
+      "artist": "Timal",
+      "has_synced": true,
+      "path": "select/12_6ème_rapport_Timal.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Rapport à",
+      "artist": "Buridane",
+      "has_synced": false,
+      "path": "select/13_Rapport_à_Buridane.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Rapport d'accident survenu le 26",
+      "artist": "Daniel Bélanger",
+      "has_synced": false,
+      "path": "select/14_Rapport_d'accident_survenu_le_26_Daniel_Bélanger.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Rapport d'accident survenu le 26",
+      "artist": "Bélanger, Daniel",
+      "has_synced": false,
+      "path": "select/15_Rapport_d'accident_survenu_le_26_Bélanger,_Daniel.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Rapport från Karibiska sjön",
+      "artist": "Kjell Höglund",
+      "has_synced": true,
+      "path": "select/16_Rapport_från_Karibiska_sjön_Kjell_Höglund.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Rapport",
+      "artist": "El Hombre Burbuja",
+      "has_synced": false,
+      "path": "select/17_Rapport_El_Hombre_Burbuja.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Rapport Humain",
+      "artist": "Kent",
+      "has_synced": false,
+      "path": "select/18_Rapport_Humain_Kent.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Rapport",
+      "artist": "キタニタツヤ",
+      "has_synced": false,
+      "path": "select/pl_01_Rapport_キタニタツヤ.txt"
+    }
+  ]
+}
